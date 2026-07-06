@@ -91,4 +91,3 @@ No number generated yet
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
